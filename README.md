@@ -1,7 +1,7 @@
 ## Fala Dev! Meu nome é Isaac Andrade
 
-- 🔭 Hoje trabalho como Game Programmer
-- 🌱 Estou estudando C# / Unity
+- 🔭 Hoje trabalho como Dev Full Stack
+- 🌱 Estou estudando JavaScript / Node / React / Front / Back
 - 😄 Ele/Dele
 
 

@@ -1,7 +1,7 @@
 ## Fala Dev! Meu nome é Isaac Andrade
 
-- 🔭 Hoje estudo Dev Full Stack
-- 🌱 Estou estudando JavaScript / Node / React / Front / Back
+- 🔭 Hoje trabalho com Dev Front End
+- 🌱 Estou estudando JavaScript / Node / React / Front
 - 😄 Ele/Dele
 
 

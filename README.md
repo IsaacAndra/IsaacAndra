@@ -1,17 +1,18 @@
-## Fala Dev! Meu nome é Isaac Andrade
+<div align="center">
+ ## Fala Dev! Meu nome é Isaac Andrade
 
 - 🔭 Hoje trabalho com Dev Front End
 - 🌱 Estou estudando JavaScript / Node / React / Front
 - 😄 Ele/Dele
 
-<div align="center">
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacAndra&show_icons=true&theme=radical)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
- </div>
-##
+ ##</div>
+
 
 <div> 
   <a href = "mailto:isaac.andra84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

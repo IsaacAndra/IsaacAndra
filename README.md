@@ -1,10 +1,12 @@
 <div align="center">
+ 
  ## 
+ 
  Fala Dev! Meu nome é Isaac Andrade
 
- 🔭 Hoje trabalho com Dev Front End
- 🌱 Estou estudando JavaScript / Node / React / Front
- 😄 Ele/Dele
+ .🔭 Hoje trabalho com Dev Front End
+ .🌱 Estou estudando JavaScript / Node / React / Front
+ .😄 Ele/Dele
 
 
  

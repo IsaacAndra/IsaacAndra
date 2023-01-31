@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  ##
-</div>
+
 
 
 <div> 
@@ -24,3 +24,4 @@
   ![Snake animation](https://github.com/IsaacAndra/IsaacAndra/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ </div>

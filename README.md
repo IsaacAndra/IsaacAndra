@@ -3,10 +3,12 @@
  ## 
  
  <h1>Fala Dev! Meu nome é Isaac Andrade</h1>
-
- .🔭 Hoje trabalho com Dev Front End
- .🌱 Estou estudando JavaScript / Node / React / Front
- .😄 Ele/Dele
+ 
+<div list-style"none">
+ -🔭 Hoje trabalho com Dev Front End
+ -🌱 Estou estudando JavaScript / Node / React / Front
+ -😄 Ele/Dele
+ </div>
 
 
  

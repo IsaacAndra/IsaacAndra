@@ -6,7 +6,7 @@
  
 <div list-style"none">
  
- - 🔭 Hoje trabalho com Dev Front End
+ - 🔭 Hoje trabalho como Dev Front End
  - 🌱 Estou estudando JavaScript / Node / React / Front
  - 😄 Ele/Dele
  

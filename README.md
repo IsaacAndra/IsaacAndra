@@ -12,12 +12,7 @@
  
  </div>
 
-
- 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacAndra&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="42" />

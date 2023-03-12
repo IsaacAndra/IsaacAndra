@@ -7,7 +7,7 @@
 <div list-style"none">
  
  - 🔭 Hoje trabalho como Dev Front End
- - 🌱 Estou estudando JavaScript / Node / React / Typescript
+ - 🌱 JavaScript / Node / React / Typescript
  - 😄 Ele/Dele
  
  </div>

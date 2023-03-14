@@ -7,9 +7,9 @@
 <div list-style"none">
  
  - 🔭 Hoje trabalho como Dev Front End
- - 🌱 JavaScript / Node / React / Typescript
+ - 🌱 HTML / CSS / JavaScript / Node / 
  - 😄 Ele/Dele
- 
+  
  </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

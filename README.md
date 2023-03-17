@@ -2,7 +2,7 @@
  
  ## 
  
- <h1>Fala Dev! Meu nome é Isaac Andrade</h1>
+ <h1>Eu sou Isaac Andrade</h1>
  
 <div list-style"none">
  

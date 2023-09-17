@@ -5,10 +5,6 @@
  <h1>Eu sou Isaac Andrade</h1>
  
 <div list-style"none">
- 
- - 🔭 Hoje trabalho como Dev Front End
- - 🌱 HTML / CSS / JavaScript / Node / 
- - 😄 Ele/Dele
   
  </div>
 
@@ -18,7 +14,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="42" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" width="42" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" width="42"/>
  
  ##
 

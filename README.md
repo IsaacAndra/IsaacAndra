@@ -3,7 +3,7 @@
  <h1> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Isaac.</h1>
 
  <p align='center'>
-   <a href="https://www.linkedin.com/in/isaac-andrade-450504178/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/isaacandrade84/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/andrade_techs"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
    <a href = "mailto:isaac.andra84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
@@ -18,7 +18,7 @@
 </div>
 
 <h5 align="center">
-   <i>⚡️Java is better then ...⚡️</i>
+   <i>⚡️Java is better then... Everything⚡️</i>
   </h5>
 </div>
   <br />

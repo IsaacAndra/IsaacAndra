@@ -22,7 +22,7 @@
   </h5>
 </div>
   <br />
-<img align="right" width="450px" alt="GIF" src="https://github.com/IsaacAndra/IsaacAndra/assets/95106435/de4251cb-6a03-4560-9fc8-4edbff45bcab" />
+<img align="right" width="450px" alt="GIF" src="https://github.com/Isaac-Andradee/Isaac-Andradee/assets/95106435/de4251cb-6a03-4560-9fc8-4edbff45bcab" />
   <p><h3>I'm a 23 years old Full-Stack Developer from Brazil.</h3> </p> 
     
   - 🔭 I am always exploring new ways to improve my code in my projects.
@@ -36,7 +36,7 @@
  
 <div align="center">
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacAndra&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Andradee&layout=compact&theme=radical&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   <br/>
 
